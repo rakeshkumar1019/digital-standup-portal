@@ -15,3 +15,6 @@ Our **Digital Standup Portal** revolutionizes daily team check-ins by replacing 
 - **Enhances team alignment with organizational goals.**
 
 Join us in transforming the way teams collaborate and track performance!
+
+## Flow Chart
+![flow char](https://raw.githubusercontent.com/rakeshkumar1019/digital-standup-portal/main/diagram-export-17-09-2024-08_46_29.png)
