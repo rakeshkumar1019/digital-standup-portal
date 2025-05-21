@@ -1,5 +1,5 @@
-function additionFunction(a, b) {
-    return a + b;
+function additionFunction(a, b,c=10) {
+    return a + b-c;
 }
 
 let num1 = 5;
